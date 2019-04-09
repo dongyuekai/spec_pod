@@ -1,0 +1,16 @@
+PODS:
+  - spec_pod (0.0.1)
+
+DEPENDENCIES:
+  - spec_pod (from `../spec_pod`)
+
+EXTERNAL SOURCES:
+  spec_pod:
+    :path: "../spec_pod"
+
+SPEC CHECKSUMS:
+  spec_pod: d5013b9ed9b93a65fe71cde1fd61d7dc895e222c
+
+PODFILE CHECKSUM: 09a673e5ec9da951d6cf7dcc24947e4630045f3c
+
+COCOAPODS: 1.5.3
